@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<div align="center"><i>“Code is like humor. When you have to explain it, it is bad.”</i> — Cory House</div>
+<p align="center"><i>“Code is like humor. When you have to explain it, it is bad.”</i> — Cory House</p>
 <!-- QUOTE:END -->
 
 <div align="center">
