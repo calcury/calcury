@@ -14,6 +14,8 @@
 <p align="center"><i>“Code is like humor. When you have to explain it, it is bad.”</i> — Cory House</p>
 <!-- QUOTE:END -->
 
+<br />
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,github,ros,js,opencv,tensorflow,pytorch&perline=8" height="48" alt="Python, C++, GitHub, ROS, JS, OpenCV, TensorFlow, PyTorch" />
