@@ -10,7 +10,9 @@
 
 </div>
 
-先把东西跑通，再谈优雅 —— 偏爱本地优先、少依赖、所见即所得的实现。
+<!-- QUOTE:START -->
+<div align="center"><i>“Code is like humor. When you have to explain it, it is bad.”</i> — Cory House</div>
+<!-- QUOTE:END -->
 
 <div align="center">
 
@@ -19,7 +21,3 @@
 <img src="https://raw.githubusercontent.com/calcury/calcury/output/github-contribution-grid-snake.svg" width="72%" alt="contribution snake" />
 
 </div>
-
-<!-- QUOTE:START -->
-<div align="center"><i>“Code is like humor. When you have to explain it, it is bad.”</i> — Cory House</div>
-<!-- QUOTE:END -->
