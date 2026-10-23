@@ -12,7 +12,7 @@
 
 先把东西跑通，再谈优雅 —— 偏爱本地优先、少依赖、所见即所得的实现。
 
-[**small_daily**](https://github.com/calcury/small_daily) · 纯前端离线日程 · [**marp-themes**](https://github.com/calcury/marp-themes) · 演讲主题 · [**pseudo-code-compilation**](https://github.com/calcury/pseudo-code-compilation) · 伪代码在线编译
+[**small_daily**](https://github.com/calcury/small_daily) 纯前端离线日程 · [**marp-themes**](https://github.com/calcury/marp-themes) 演讲主题 · [**pseudo-code-compilation**](https://github.com/calcury/pseudo-code-compilation) 伪代码在线编译
 
 <div align="center">
 
