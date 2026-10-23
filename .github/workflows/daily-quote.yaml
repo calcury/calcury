@@ -1,0 +1,32 @@
+name: Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 08:00（北京时间）
+  workflow_dispatch: # 手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 更新今日一句
+        run: python3 .github/scripts/daily_quote.py
+
+      - name: 提交
+        run: |
+          if git diff --quiet README.md; then
+            echo "无变化，跳过提交"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: 每日一句 $(date +%F)"
+          git push
