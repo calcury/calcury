@@ -14,12 +14,12 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,github&perline=3" height="48" alt="Python, C++, GitHub" /><img src="assets/gitlens.png" height="48" width="48" alt="GitLens" /><img src="https://skillicons.dev/icons?i=ros,js,opencv,tensorflow,pytorch&perline=5" height="48" alt="ROS, JS, OpenCV, TensorFlow, PyTorch" />
+<img src="https://skillicons.dev/icons?i=python,cpp,github,ros,js,opencv,tensorflow,pytorch&perline=8" height="48" alt="Python, C++, GitHub, ROS, JS, OpenCV, TensorFlow, PyTorch" />
 
 <img src="https://raw.githubusercontent.com/calcury/calcury/output/github-contribution-grid-snake.svg" width="72%" alt="contribution snake" />
 
-<!-- QUOTE:START -->
-*“Code is like humor. When you have to explain it, it is bad.”* — Cory House
-<!-- QUOTE:END -->
-
 </div>
+
+<!-- QUOTE:START -->
+<div align="center"><i>“Code is like humor. When you have to explain it, it is bad.”</i> — Cory House</div>
+<!-- QUOTE:END -->

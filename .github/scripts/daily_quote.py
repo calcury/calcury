@@ -45,7 +45,7 @@ QUOTES: list[tuple[str, str]] = [
 
 def build(day: datetime.date) -> str:
     text, author = QUOTES[day.toordinal() % len(QUOTES)]
-    return f"{START}\n*\u201c{text}\u201d* \u2014 {author}\n{END}"
+    return f'{START}\n<div align="center"><i>\u201c{text}\u201d</i> \u2014 {author}</div>\n{END}'
 
 
 def main() -> int:
