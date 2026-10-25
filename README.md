@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“A ship in port is safe, but that is not what ships are built for.”</i> — Grace Hopper</p>
+<p align="center"><i>“You cannot connect the dots looking forward; you can only connect them looking backwards.”</i> — Steve Jobs</p>
 <!-- QUOTE:END -->
 
 <br />
