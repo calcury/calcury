@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“The only way to learn a new programming language is by writing programs in it.”</i> — Dennis Ritchie</p>
+<p align="center"><i>“Controlling complexity is the essence of computer programming.”</i> — Brian Kernighan</p>
 <!-- QUOTE:END -->
 
 <br />
