@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Controlling complexity is the essence of computer programming.”</i> — Brian Kernighan</p>
+<p align="center"><i>“Deleted code is debugged code.”</i> — Jeff Sickel</p>
 <!-- QUOTE:END -->
 
 <br />
