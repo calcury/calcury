@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.”</i> — Elbert Hubbard</p>
+<p align="center"><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> — Arthur C. Clarke</p>
 <!-- QUOTE:END -->
 
 <br />
