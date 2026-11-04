@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> — Arthur C. Clarke</p>
+<p align="center"><i>“It is not that I am so smart, it is just that I stay with problems longer.”</i> — Albert Einstein</p>
 <!-- QUOTE:END -->
 
 <br />
