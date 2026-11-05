@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“It is not that I am so smart, it is just that I stay with problems longer.”</i> — Albert Einstein</p>
+<p align="center"><i>“Simplicity is prerequisite for reliability.”</i> — Edsger W. Dijkstra</p>
 <!-- QUOTE:END -->
 
 <br />
