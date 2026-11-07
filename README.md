@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i> — Harold Abelson</p>
+<p align="center"><i>“Premature optimization is the root of all evil.”</i> — Donald Knuth</p>
 <!-- QUOTE:END -->
 
 <br />
