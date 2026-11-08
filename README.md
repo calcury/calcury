@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Premature optimization is the root of all evil.”</i> — Donald Knuth</p>
+<p align="center"><i>“Talk is cheap. Show me the code.”</i> — Linus Torvalds</p>
 <!-- QUOTE:END -->
 
 <br />
