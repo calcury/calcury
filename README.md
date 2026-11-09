@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Talk is cheap. Show me the code.”</i> — Linus Torvalds</p>
+<p align="center"><i>“The best way to predict the future is to invent it.”</i> — Alan Kay</p>
 <!-- QUOTE:END -->
 
 <br />
