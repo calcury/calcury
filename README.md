@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“The best way to predict the future is to invent it.”</i> — Alan Kay</p>
+<p align="center"><i>“Make it work, make it right, make it fast.”</i> — Kent Beck</p>
 <!-- QUOTE:END -->
 
 <br />
