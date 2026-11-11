@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Make it work, make it right, make it fast.”</i> — Kent Beck</p>
+<p align="center"><i>“First, solve the problem. Then, write the code.”</i> — John Johnson</p>
 <!-- QUOTE:END -->
 
 <br />
