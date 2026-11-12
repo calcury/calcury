@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“First, solve the problem. Then, write the code.”</i> — John Johnson</p>
+<p align="center"><i>“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”</i> — Antoine de Saint-Exupéry</p>
 <!-- QUOTE:END -->
 
 <br />
