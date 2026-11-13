@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”</i> — Antoine de Saint-Exupéry</p>
+<p align="center"><i>“The most dangerous phrase in the language is, we have always done it this way.”</i> — Grace Hopper</p>
 <!-- QUOTE:END -->
 
 <br />
