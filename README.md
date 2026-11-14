@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“The most dangerous phrase in the language is, we have always done it this way.”</i> — Grace Hopper</p>
+<p align="center"><i>“The purpose of computing is insight, not numbers.”</i> — Richard Hamming</p>
 <!-- QUOTE:END -->
 
 <br />
