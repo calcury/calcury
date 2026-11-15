@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“The purpose of computing is insight, not numbers.”</i> — Richard Hamming</p>
+<p align="center"><i>“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”</i> — Bill Gates</p>
 <!-- QUOTE:END -->
 
 <br />
