@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”</i> — Bill Gates</p>
+<p align="center"><i>“There are only two hard things in computer science: cache invalidation and naming things.”</i> — Phil Karlton</p>
 <!-- QUOTE:END -->
 
 <br />
