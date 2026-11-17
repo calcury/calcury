@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“There are only two hard things in computer science: cache invalidation and naming things.”</i> — Phil Karlton</p>
+<p align="center"><i>“Code is like humor. When you have to explain it, it is bad.”</i> — Cory House</p>
 <!-- QUOTE:END -->
 
 <br />
