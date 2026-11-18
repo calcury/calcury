@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Code is like humor. When you have to explain it, it is bad.”</i> — Cory House</p>
+<p align="center"><i>“A ship in port is safe, but that is not what ships are built for.”</i> — Grace Hopper</p>
 <!-- QUOTE:END -->
 
 <br />
