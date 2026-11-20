@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“You cannot connect the dots looking forward; you can only connect them looking backwards.”</i> — Steve Jobs</p>
+<p align="center"><i>“The only way to learn a new programming language is by writing programs in it.”</i> — Dennis Ritchie</p>
 <!-- QUOTE:END -->
 
 <br />
