@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Deleted code is debugged code.”</i> — Jeff Sickel</p>
+<p align="center"><i>“Science is what we understand well enough to explain to a computer. Art is everything else we do.”</i> — Donald Knuth</p>
 <!-- QUOTE:END -->
 
 <br />
