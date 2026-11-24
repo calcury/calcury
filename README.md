@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Science is what we understand well enough to explain to a computer. Art is everything else we do.”</i> — Donald Knuth</p>
+<p align="center"><i>“Everything should be made as simple as possible, but not simpler.”</i> — Albert Einstein</p>
 <!-- QUOTE:END -->
 
 <br />
