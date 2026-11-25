@@ -11,7 +11,7 @@
 </div>
 
 <!-- QUOTE:START -->
-<p align="center"><i>“Everything should be made as simple as possible, but not simpler.”</i> — Albert Einstein</p>
+<p align="center"><i>“Imagination is more important than knowledge.”</i> — Albert Einstein</p>
 <!-- QUOTE:END -->
 
 <br />
